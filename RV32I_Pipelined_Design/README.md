@@ -17,7 +17,4 @@ The implemented processor diagram and correspondent design are shown below.
     <img width="700" src="https://github.com/joscarvalho/Pipeline-RISCV/blob/main/Img/Pipeline%20Design.png?raw=true" alt="RISC-V Soft-core Processor Design"/>
 </p>
 
-### Authors:
-- [José Carvalho](https://github.com/Jose-Carvalho-88240)
-- [Hugo Ribeiro](https://github.com/HugoRibeiro-A88287-UM)
-- [João Carneiro](https://github.com/JoaoLuis00)
+
